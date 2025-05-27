@@ -4,7 +4,7 @@
 
 ---
 
-## 👀 About Me
+## About Me
 
 - 🛡️ Cybersecurity enthusiast & digital detective  
 - 🧠 Always reverse-engineering, analyzing, and optimizing  
@@ -23,7 +23,7 @@
 
 ---
 
-##  Open to Collaborate On
+## Open to Collaborate On
 
 - 🔐 Security tools & dashboards  
 - 📡 Network monitoring & packet analysis (Wireshark, Suricata, Wazuh)  
