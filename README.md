@@ -23,7 +23,7 @@
 
 ---
 
-## 💞️ Open to Collaborate On
+##  Open to Collaborate On
 
 - 🔐 Security tools & dashboards  
 - 📡 Network monitoring & packet analysis (Wireshark, Suricata, Wazuh)  
