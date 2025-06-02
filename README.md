@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m @pringleshowboi
 
-> “Building digital fortresses, one exploit at a time.”
+> “Building digital fortresses.”
 
 ---
 
